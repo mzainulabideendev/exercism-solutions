@@ -1,3 +1,18 @@
+<p align="center">
+  <img
+    src="https://assets.exercism.org/assets/icons/exercism-with-logo-black-12752bd7fcf6862ba8ad7a2b75e21a9b2409d7fd.svg"
+    alt="Exercism Logo"
+    width="500"
+  />
+</p>
+
+<h1 align="center">Exercism C# Solutions</h1>
+
+<p align="center">
+  C# • .NET • Problem Solving • Algorithms • Programming Practice
+</p>
+
+
 # Exercism Solutions
 
 [![Language](https://img.shields.io/badge/Language-C%23-512BD4?style=flat-square\&logo=csharp\&logoColor=white)](https://learn.microsoft.com/dotnet/csharp/)
